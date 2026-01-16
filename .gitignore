@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+
+# Playwright MCP
+.playwright-mcp/
+
+# macOS
+.DS_Store
+
+# Node modules (if needed in future)
+node_modules/
+
+# Build output
+dist/
+build/
